@@ -8,6 +8,7 @@ public class Consultant extends BaseEmployee {
     public void consult(){
 
     }
+//dljghkjsgufysohiuehfgsfasidufasuduhfiudshf
 
 
     public void send(){
