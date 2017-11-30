@@ -17,6 +17,13 @@ public class PrivateBank extends BaseBank {
         super.giveCredit ();
     }
 
+
+
+
+
+
+
+
     @Override
     public String getName() {
         return super.getName ();
