@@ -1,0 +1,3 @@
+[submodule "nikita"]
+	path = nikita
+	url = https://github.com/nikitaolejnik/nikita.git
